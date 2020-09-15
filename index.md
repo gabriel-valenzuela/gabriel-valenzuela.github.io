@@ -3,44 +3,74 @@
 ---
 
 ### Data Science Program Projects
-
+<br></br>
 [Weather API](/sample_page)
+<br></br>
+[Project Description & Github Repo]()
+<br></br>
 <img src="images/WeatherAPI.png?raw=true"/>
 
 ---
 [Distribution of Toy Manufacturers within the Amazon Marketplace](/pdf/sample_presentation.pdf)
+<br></br>
+[Project Description & Github Repo]()
+<br></br>
 <img src="images/AmazonToys.png?raw=true"/>
 
 ---
-[Weather Phenomenon and Fire Outbreaks in Brazil](http://example.com/)
+Weather Phenomenon and Fire Outbreaks in Brazil
+<br></br>
+[Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC530/blob/master/README.md)
+<br></br>
 <img src="images/FireOutbreaks.png?raw=true"/>
 
 ---
-[Pokémon Video Game SQL Lite Database](http://example.com/)
+Pokémon Video Game SQL Lite Database
+<br></br>
+[Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC540/blob/master/README.md)
+<br></br>
 <img src="images/PokemonIcon.png?raw=true"/>
 
 ---
 [Characteristics of a Successful Song](http://example.com/)
+<br></br>
+[Project Description & Github Repo]()
+<br></br>
 <img src="images/PopularSong.png?raw=true"/>
 
 ---
 [Video Game Sales Predictions Across the World](http://example.com/)
+<br></br>
+[Project Description & Github Repo]()
+<br></br>
 <img src="images/VideoGameIcon.png?raw=true"/>
 
 ---
 [Airplane Safety Overall](http://example.com/)
+<br></br>
+[Project Description & Github Repo]()
+<br></br>
 <img src="images/AirplaneIcon.png?raw=true"/>
 
 ---
 [Kickstarter Video Games](http://example.com/)
+<br></br>
+[Project Description & Github Repo]()
+<br></br>
 <img src="images/KickstarterVideoGame.png?raw=true"/>
 
 ---
 [Project #9](http://example.com/)
+<br></br>
+[Project Description & Github Repo]()
+<br></br>
 <img src="images/QuestionMarkIcon.png?raw=true"/>
 
 ---
 [Project #10](http://example.com/)
+<br></br>
+[Project Description & Github Repo]()
+<br></br>
 <img src="images/QuestionMarkIcon.png?raw=true"/>
 
 ---
