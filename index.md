@@ -3,11 +3,11 @@
 ---
 
 ### Data Science Program Projects
-<br></br>
+<br> </br>
 [Weather API](/sample_page)
-<br></br>
+<br> </br>
 [Project Description & Github Repo]()
-<br></br>
+<br> </br>
 <img src="images/WeatherAPI.png?raw=true"/>
 
 ---
