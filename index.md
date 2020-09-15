@@ -58,7 +58,7 @@ Pokémon Video Game SQL Lite Database
 <br>
 [Project Description & Github Repo]()
 <br>
-<img src="images/KickstarterVideoGame.png?raw=true"/>
+<img src="images/KickstaterIcon.png?raw=true"/>
 
 ---
 [Project #9](http://example.com/)
