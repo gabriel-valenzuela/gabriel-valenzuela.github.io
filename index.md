@@ -2,20 +2,49 @@
 
 ---
 
-### Category Name 1 
+### Data Science Program Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Weather API](/sample_page)
+<img src="images/WeatherAPI.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Distribution of Toy Manufacturers within the Amazon Marketplace](/pdf/sample_presentation.pdf)
+<img src="images/AmazonToys.png?raw=true"/>
 
 ---
+[Weather Phenomenon and Fire Outbreaks in Brazil](http://example.com/)
+<img src="images/FireOutbreaks.png?raw=true"/>
+
+---
+[Pokémon Video Game SQL Lite Database](http://example.com/)
+<img src="images/PokemonDatabase.png?raw=true"/>
+
+---
+[Characteristics of a Successful Song](http://example.com/)
+<img src="images/PopularSong.png?raw=true"/>
+
+---
+[Video Game Sales Predictions Across the World](http://example.com/)
+<img src="images/VideoGameSales.jpg?raw=true"/>
+
+---
+[Airplane Safety Overall](http://example.com/)
+<img src="images/AirplaneSafety.jpg?raw=true"/>
+
+---
+[Kickstarter Video Games](http://example.com/)
+<img src="images/KickstarterVideoGame.png?raw=true"/>
+
+---
+[Project #9](http://example.com/)
+<img src="images/QuestionMark.png?raw=true"/>
+
+---
+[Project #10](http://example.com/)
+<img src="images/QuestionMark.png?raw=true"/>
+
+---
+
 
 ### Category Name 2
 
