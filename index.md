@@ -17,7 +17,7 @@
 
 ---
 [Pokémon Video Game SQL Lite Database](http://example.com/)
-<img src="images/PokemonDatabase.png?raw=true"/>
+<img src="images/PokemonIcon.png?raw=true"/>
 
 ---
 [Characteristics of a Successful Song](http://example.com/)
@@ -25,11 +25,11 @@
 
 ---
 [Video Game Sales Predictions Across the World](http://example.com/)
-<img src="images/VideoGameSales.jpg?raw=true"/>
+<img src="images/VideoGameIcon.png?raw=true"/>
 
 ---
 [Airplane Safety Overall](http://example.com/)
-<img src="images/AirplaneSafety.jpg?raw=true"/>
+<img src="images/AirplaneIcon.png?raw=true"/>
 
 ---
 [Kickstarter Video Games](http://example.com/)
@@ -37,11 +37,11 @@
 
 ---
 [Project #9](http://example.com/)
-<img src="images/QuestionMark.png?raw=true"/>
+<img src="images/QuestionMarkIcon.png?raw=true"/>
 
 ---
 [Project #10](http://example.com/)
-<img src="images/QuestionMark.png?raw=true"/>
+<img src="images/QuestionMarkIcon.png?raw=true"/>
 
 ---
 
