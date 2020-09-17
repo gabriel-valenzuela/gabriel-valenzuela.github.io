@@ -5,14 +5,14 @@
 ### Data Science Program Projects
 ---
 
-[Weather API]
+Weather API
 <br> 
 [Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC510/blob/master/README.md)
 <br> 
 <img src="images/WeatherAPI.png?raw=true"/>
 
 ---
-[Distribution of Toy Manufacturers within the Amazon Marketplace]
+Distribution of Toy Manufacturers within the Amazon Marketplace
 <br>
 [Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC520/blob/master/README.md)
 <br>
