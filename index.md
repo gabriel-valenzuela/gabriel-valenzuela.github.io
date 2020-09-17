@@ -33,42 +33,42 @@ Pokémon Video Game SQL Lite Database
 <img src="images/PokemonIcon.png?raw=true"/>
 
 ---
-[Characteristics of a Successful Song](http://example.com/)
+Characteristics of a Successful Song
 <br>
 [Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC550/blob/master/README.md)
 <br>
 <img src="images/PopularSong.png?raw=true"/>
 
 ---
-[Video Game Sales Predictions Across the World](http://example.com/)
+Video Game Sales Predictions Across the World
 <br>
-[Project Description & Github Repo]()
+[Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC630/blob/master/README.md)
 <br>
 <img src="images/VideoGameIcon.png?raw=true"/>
 
 ---
-[Airplane Safety Overall](http://example.com/)
+Airplane Safety Overall
 <br>
-[Project Description & Github Repo]()
+[Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC640/blob/master/README.md)
 <br>
 <img src="images/AirplaneIcon.png?raw=true"/>
 
 ---
-[Kickstarter Video Games](http://example.com/)
+Kickstarter Video Games
 <br>
-[Project Description & Github Repo]()
+[Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC680/blob/master/README.md)
 <br>
 <img src="images/KickstaterIcon.png?raw=true"/>
 
 ---
-[Project #9](http://example.com/)
+Project #9
 <br>
 [Project Description & Github Repo]()
 <br>
 <img src="images/QuestionMarkIcon.png?raw=true"/>
 
 ---
-[Project #10](http://example.com/)
+Project #10
 <br>
 [Project Description & Github Repo]()
 <br>
