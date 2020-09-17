@@ -5,16 +5,16 @@
 ### Data Science Program Projects
 ---
 
-[Weather API](/sample_page)
+[Weather API]
 <br> 
-[Project Description & Github Repo]()
+[Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC510/blob/master/README.md)
 <br> 
 <img src="images/WeatherAPI.png?raw=true"/>
 
 ---
-[Distribution of Toy Manufacturers within the Amazon Marketplace](/pdf/sample_presentation.pdf)
+[Distribution of Toy Manufacturers within the Amazon Marketplace]
 <br>
-[Project Description & Github Repo]()
+[Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC520/blob/master/README.md)
 <br>
 <img src="images/AmazonToys.png?raw=true"/>
 
@@ -35,7 +35,7 @@ Pokémon Video Game SQL Lite Database
 ---
 [Characteristics of a Successful Song](http://example.com/)
 <br>
-[Project Description & Github Repo]()
+[Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC550/blob/master/README.md)
 <br>
 <img src="images/PopularSong.png?raw=true"/>
 
