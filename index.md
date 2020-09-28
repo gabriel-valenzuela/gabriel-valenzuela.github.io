@@ -14,7 +14,7 @@ Introduction to Programming Course
 
 ---
 Distribution of Toy Manufacturers within the Amazon Marketplace<br>
-R in Statistis Course
+R in Statistics Course
 <br>
 [Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC520/blob/master/README.md)
 <br>
