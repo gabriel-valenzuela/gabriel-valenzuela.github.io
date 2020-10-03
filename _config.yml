@@ -1,13 +1,18 @@
 title: Gabriel Valenzuela # your name (or website title) here
 logo: "/images/Headshot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <h2>About<\h2>
+  <h2>About</h2>
   <br>
   Future Data Science graduate with a combination of business, computer science, and data science skillsets. Bachelor's Degree in Computer Science with an emphasis in Information Systems from the Unviersity of Wisconsin-Platteville. 
   <br><br>
+  <h2>Experience</h2>
+  <br>
   Experience in data visualizations and analysis as a Research Intern within the Office of Insitutional Research at my alma mater. 
+  <h2>Contact</h2>
+  <br>
   <br><br>
   <a href="https://www.linkedin.com/in/gabriel-valenzuela-20152019/">View My LinkedIn Profile</a> 
+  Email: gabrielvalenzuela97@gmail.com
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
