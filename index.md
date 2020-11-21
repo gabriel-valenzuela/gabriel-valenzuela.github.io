@@ -74,7 +74,7 @@ Applied Data Science Course
 <br>
 [Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC680_2/blob/main/README.md)
 <br>
-<img src="images/QuestionMarkIcon.png?raw=true"/>
+<img src="images/ChoppedCuttingBoardIcon.png.png?raw=true"/>
 
 ---
 Marvel and DC Characters<br>
@@ -82,7 +82,7 @@ Applied Data Science Course
 <br>
 [Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC680_3/blob/main/README.md)
 <br>
-<img src="images/QuestionMarkIcon.png?raw=true"/>
+<img src="images/HeroIcon2.png?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
