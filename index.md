@@ -66,7 +66,7 @@ Applied Data Science Course
 <br>
 [Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC680/blob/master/README.md)
 <br>
-<img src="images/KickstaterIcon.png?raw=true"/>
+<img src="images/money.png?raw=true"/>
 
 ---
 Injured Food Network Chopped Winners<br>
