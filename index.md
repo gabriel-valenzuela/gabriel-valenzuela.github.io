@@ -69,18 +69,18 @@ Applied Data Science Course
 <img src="images/KickstaterIcon.png?raw=true"/>
 
 ---
-Project #9<br>
+Injured Food Network Chopped Winners<br>
 Applied Data Science Course
 <br>
-[Project Description & Github Repo]()
+[Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC680_2/blob/main/README.md)
 <br>
 <img src="images/QuestionMarkIcon.png?raw=true"/>
 
 ---
-Project #10<br>
+Marvel and DC Characters<br>
 Applied Data Science Course
 <br>
-[Project Description & Github Repo]()
+[Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC680_3/blob/main/README.md)
 <br>
 <img src="images/QuestionMarkIcon.png?raw=true"/>
 
