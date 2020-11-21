@@ -18,7 +18,7 @@ R in Statistics Course
 <br>
 [Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC520/blob/master/README.md)
 <br>
-<img src="images/AmazonToys.png?raw=true"/>
+<img src="images/AmazonIcon2.png?raw=true"/>
 
 ---
 Weather Phenomenon and Fire Outbreaks in Brazil<br>
