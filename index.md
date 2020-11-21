@@ -85,5 +85,10 @@ Applied Data Science Course
 <img src="images/HeroIcon2.png?raw=true"/>
 
 ---
+Contact Information
+<br>
+E-mail: gabrielvalenzuela97@gmail.com
+
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
