@@ -74,7 +74,7 @@ Applied Data Science Course
 <br>
 [Project Description & Github Repo](https://github.com/gabriel-valenzuela/Valenzuela_Gabriel_DSC680_2/blob/main/README.md)
 <br>
-<img src="images/ChoppedCuttingBoardIcon.png.png?raw=true"/>
+<img src="images/ChoppedCuttingBoardIcon.png?raw=true"/>
 
 ---
 Marvel and DC Characters<br>
